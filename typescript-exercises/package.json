@@ -1,0 +1,9 @@
+{
+  "name": "typescript-exercises",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "calculateBmi": "ts-node bmiCalculator.ts",
+    "calculateExercises": "ts-node exerciseCalculator.ts"
+  }
+}
